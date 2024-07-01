@@ -4,4 +4,4 @@ The basic idea behind this project was prompted by the recent developments in th
 
 To hypothesize this scenario as a machine learning project, I chose the YOLOv3 model that would be trained on the PASCAL VOC dataset. I have chosen the Flower framework to implement the federated learning architecture. I have chosen the number of clients to be 2 and the averaging algorithm to be the FedAvg algorithm.
 
-TL;DR: Train the Object Detection task at hand in a Distributed Learning fashion.
+**TL;DR**: Train the Object Detection task at hand in a Distributed Machine Learning fashion.
