@@ -6,4 +6,6 @@ To imitate this scenario in the form of a machine learning project, I chose the 
 
 **TL;DR**: Train the Object Detection task at hand in a Distributed Machine Learning fashion.
 
-Credit: https://github.com/xuexingyu24/YOLO-V3-in-Pytorch-A-Tutorial-on-Implementation-of-YOLO-V3-Algorithm
+Credit: 
+https://github.com/xuexingyu24/YOLO-V3-in-Pytorch-A-Tutorial-on-Implementation-of-YOLO-V3-Algorithm
+https://flower.ai/
